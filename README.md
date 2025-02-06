@@ -7,7 +7,7 @@ It follows **Onion Architecture** for maintainability and scalability.
 ## 📌 Features
 - ✅ **Efficient Pagination** with metadata.
 - ✅ **Onion Architecture** for clean separation of concerns.
-- ✅ **Supports Both EF Core & Dapper** for database access.
+- ✅ **Supports Both EF Core 
 - ✅ **Swagger UI** for easy API testing.
 - ✅ **Optimized for Performance** with SQL Indexing.
 
